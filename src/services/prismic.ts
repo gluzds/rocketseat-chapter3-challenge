@@ -6,8 +6,12 @@ export interface PrismicConfig {
   req?: HttpRequestLike;
 }
 
+const repositoryName = 'chapter3-challenge'
+
 export function getPrismicClient(config: PrismicConfig): prismic.Client {
-  const client = prismic.createClient(process.env.PRISMIC_API_ENDPOINT);
+  const client = prismic.createClient(repositoryName, {
+    accessToken: process.env.PRISMIC_API_ENDPOINT,
+  })
 
   enableAutoPreviews({
     client,

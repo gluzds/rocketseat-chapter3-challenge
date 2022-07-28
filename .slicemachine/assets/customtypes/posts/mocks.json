@@ -1,0 +1,71 @@
+{
+  "id": "6289a023-ac7f-4bc0-98ce-efa4b458666b",
+  "uid": "ut-quis-impedit",
+  "type": "posts",
+  "data": {
+    "title": "transform intuitive technologies",
+    "subtitle": "synergize turn-key solutions",
+    "author": "extend rich e-services",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "reinvent best-of-breed architectures",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Do ad aliquip consequat ex aliquip labore amet consectetur aute Lorem ex esse nulla laboris. Est cillum ipsum minim duis do velit velit. Commodo exercitation deserunt irure nulla ut aliqua culpa nisi.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "empower 24/7 deliverables",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Deserunt aliquip ex laboris officia nisi nulla mollit do velit labore id magna anim id.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "architect frictionless applications",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ipsum commodo nisi pariatur id et occaecat aliquip occaecat exercitation reprehenderit elit ad consectetur reprehenderit. Aliquip cupidatat laboris cillum esse enim incididunt.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "monetize real-time convergence",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Mollit exercitation ad officia. Exercitation exercitation id deserunt non qui et consectetur nulla laboris laboris laborum.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "syndicate ubiquitous channels",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "In dolore pariatur nisi est elit sit voluptate minim excepteur ipsum mollit adipisicing mollit aliquip commodo. Sint cillum velit aliqua aliquip minim qui.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
